@@ -1,6 +1,6 @@
 
 
-This is a simple Python/Django application that was developed as a proficiency exam. 
+This Python/Django application that was developed as a proficiency exam.
 
 Deployed on AWS @ http://52.55.218.230/
 
@@ -13,18 +13,16 @@ Python version 2.7
 
 Walkthrough: 
 
-User login/registration: 
+<h2>User login/registration: </h2>
+
+<h4>User option enforces a unique email, correct password, and required field inputs.</h4>
 
 
-/Users/Sirius/Desktop/Screen Shot 2019-01-18 at 2.09.17 AM.png
+![User Login/Reg](https://github.com/sabahjones/images/blob/master/pythonDjangoLogin.png)
 
 
-User option enforces a unique email, correct password, and required field inputs.
 
-User dashboard: 
-
-/Users/Sirius/Desktop/Screen Shot 2019-01-18 at 2.12.54 AM.png
-
+<h2>User dashboard: </h2>
 
 1. User name in top right indicates successful user authentication
 2. "Popular Quotes!" shows all quotes in database, minus user favorites which appear on right side. Quotes are dynamically added and subtracted accordingly.
@@ -32,19 +30,24 @@ User dashboard:
 4. Statefulness is applied using user ID upon creation/login and is persistent until user logs out. 
 
 
+![User Dash](https://github.com/sabahjones/images/blob/master/pythonDjangoDashboard.png)
 
-Database user table data: 
 
-/Users/Sirius/Desktop/Screen Shot 2019-01-18 at 2.24.02 AM.png
+
+
+
+<h2>Database user table data: </h2>
+
 
 View of database table confirms successful encryption of user passwords.
 
+![User Table](https://github.com/sabahjones/images/blob/master/dbview.png)
 
-Please note: 
+
+Note: 
 
 	No CSS or frontend JS framework was required for initial examination. Link to completed project will be provided shortly. 
 
-For any other questions or feedback please email me at smahmed275@gmail.com
 
-Thank you!
+For any other questions, feedback, or updates please email me at smahmed275@gmail.com.
 
