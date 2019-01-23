@@ -13,7 +13,7 @@ Python version 2.7
 
 Walkthrough: 
 
-<h2>User login/registration: </h2>
+<h2 style="color:blue";>User login/registration: </h2>
 
 <h4>User option enforces a unique email, correct password, and required field inputs.</h4>
 
