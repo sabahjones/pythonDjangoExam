@@ -24,10 +24,10 @@ Walkthrough:
 
 <h2>User dashboard: </h2>
 
-1. User name in top right indicates successful user authentication
-2. "Popular Quotes!" shows all quotes in database, minus user favorites which appear on right side. Quotes are dynamically added and subtracted accordingly.
-3. All CRUD operations are accessible through addition of new quotes, show of user profile, update of list preferences, and deletion of quote altogether. 
-4. Statefulness is applied using user ID upon creation/login and is persistent until user logs out. 
+	1. User name in top right indicates successful user authentication
+	2. "Popular Quotes!" shows all quotes in database, minus user favorites which appear on right side. Quotes are dynamically added 	and subtracted accordingly.
+	3. All CRUD operations are accessible through addition of new quotes, show of user profile, update of list preferences, and 		deletion of quote altogether. 
+	4. Statefulness is applied using user ID upon creation/login and is persistent until user logs out. 
 
 
 ![User Dash](https://github.com/sabahjones/images/blob/master/pythonDjangoDashboard.png)
@@ -39,7 +39,7 @@ Walkthrough:
 <h2>Database user table data: </h2>
 
 
-View of database table confirms successful encryption of user passwords.
+	View of database table confirms successful encryption of user passwords.
 
 ![User Table](https://github.com/sabahjones/images/blob/master/dbview.png)
 
