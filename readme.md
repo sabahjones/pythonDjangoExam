@@ -2,7 +2,7 @@
 
 This Python/Django application that was developed as a proficiency exam.
 
-<h3>Deployed on AWS @ http://52.55.218.230/ </h3>
+<b><i>Will be redeployed on AWS on 5/25/2019</b></i>
 
 <i>The full stack application was developed per wireframe requirements to demonstrate profiency in Django using MVC architecture, user password encryption, stateful web service, RESTful routing, CRUD operations, API creation, relational data modeling using sql, validation and error messaging to maintain database integrity, ORM queries to render data to view, and proficiency scripting logic to provide user features.</i>
 
